@@ -1,6 +1,4 @@
-Here’s a **~100-word README** you can paste directly:
 
----
 
 # Go CLI Server with Graceful Shutdown
 
